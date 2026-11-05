@@ -34,7 +34,7 @@
 ### RMFS · 주문 투입 정책 연구
 이산사건 시뮬레이션으로 주문 투입 정책에 따른 운반 효율과 주문처리 시간의 균형을 살펴봅니다. **연구 코드와 문서는 비공개로 관리합니다.**
 
-**[RMFS 흐름 관찰기 바로 실행](https://zzongzzz47.github.io/rmfs-flow-viewer/)** · [코드 보기](https://github.com/zzongzzz47/rmfs-flow-viewer)
+**[RMFS 흐름 관찰기 바로 실행](https://zzongzzz47.github.io/rmfs-flow-viewer/)** · [코드 보기](https://github.com/zzongzzz47/rmfs-flow-viewer) · [보고서](https://github.com/zzongzzz47/rmfs-order-release-research/blob/main/reports/rmfs_conference_20261030.pdf)
 
 ## 관련 프로젝트
 
