@@ -31,6 +31,11 @@
 
 [프로젝트](https://github.com/zzongzzz47/amr-delay-prediction) · [코드](https://github.com/zzongzzz47/amr-delay-prediction/tree/main/code) · [실험 정리](https://github.com/zzongzzz47/amr-delay-prediction/tree/main/reports)
 
+### 유통데이터 · 품목별 수요예측과 매입량 산정
+품목군별 예측 모형을 비교하고, 안전재고와 입고 예정량을 반영해 매입량을 산정했습니다.
+
+[프로젝트](https://github.com/zzongzzz47/retail-demand-forecasting) · [코드](https://github.com/zzongzzz47/retail-demand-forecasting/tree/main/code) · [보고서](https://github.com/zzongzzz47/retail-demand-forecasting/blob/main/reports/nexus_demand_forecasting_report.pdf)
+
 ### RMFS · 주문 투입 정책 연구
 이산사건 시뮬레이션으로 주문 투입 정책에 따른 운반 효율과 주문처리 시간의 균형을 살펴봅니다. **연구 코드와 문서는 비공개로 관리합니다.**
 
