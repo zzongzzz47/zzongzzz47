@@ -41,6 +41,13 @@
 
 **[RMFS 흐름 관찰기 바로 실행](https://zzongzzz47.github.io/rmfs-flow-viewer/)** · [코드 보기](https://github.com/zzongzzz47/rmfs-flow-viewer) · [보고서](https://github.com/zzongzzz47/rmfs-order-release-research/blob/main/reports/rmfs_conference_20261030.pdf)
 
+## 공부 기록
+
+### 수요예측과 시계열 분석
+기초 시계열 모형, 딥러닝, 간헐수요와 재고관리를 공부하며 남긴 글을 주제별로 모았습니다. 논문 읽기와 검증 전 연구 아이디어도 함께 구분해 정리했습니다.
+
+[주제별 글 목록](https://github.com/zzongzzz47/retail-demand-forecasting/tree/main/notes) · [티스토리](https://zzongzz.tistory.com/)
+
 ## 관련 프로젝트
 
 [서울 폐의약품 배출 이동 부담 분석](https://github.com/zzongzzz47/seoul-medicine-mobility)
